@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1e60377-a8ce-4ed4-887c-0538e500bce3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <updated>1669643057450</updated>
       <workItem from="1669643058629" duration="1585000" />
       <workItem from="1669685996999" duration="7312000" />
-      <workItem from="1669900669022" duration="3523000" />
+      <workItem from="1669900669022" duration="4374000" />
     </task>
     <servers />
   </component>
