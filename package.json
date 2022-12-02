@@ -7,7 +7,7 @@
     "start": "npx tsc -w",
     "dev": "npx nodemon",
     "build": "tsc",
-    "format": "prettier --write",
+    "format": "prettier --write .",
     "prepare": "husky install",
     "check-types": "tsc --pretty --noEmit",
     "check-format" : "prettier --check .",
