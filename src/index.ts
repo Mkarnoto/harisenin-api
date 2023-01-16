@@ -1,5 +1,5 @@
-import express, { Application} from 'express'
-import {routes} from "./routes";
+import express, { Application } from 'express'
+import { routes } from './routes'
 
 const app: Application = express()
 const port: number = 7000
